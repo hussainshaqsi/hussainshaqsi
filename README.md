@@ -1,29 +1,29 @@
 # Hussain AL SHAQSI
 
-BUT Réseaux & Télécommunications student at **IUT de Colmar (UHA)**, DevCloud track.
-I build and automate infrastructure: containers, Kubernetes, CI/CD and monitoring.
+Étudiant en BUT Réseaux & Télécommunications à l'**IUT de Colmar (UHA)**, parcours DevCloud.
+Je construis et j'automatise des infrastructures : conteneurs, Kubernetes, CI/CD et supervision.
 
-**Looking for an alternance (work-study) in DevOps, cloud, systems or networks.**
+**À la recherche d'une alternance en DevOps, cloud, systèmes ou réseaux.**
 
 [Portfolio](https://hussainshaqsi.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/hussain-al-shaqsi) · [CV (PDF)](https://hussainshaqsi.github.io/Portfolio/assets/CV_alshaqsi_hussain.pdf)
 
-## What I'm working on
+## Sur quoi je travaille
 
-- **[django-cicd-pipeline](https://github.com/hussainshaqsi/django-cicd-pipeline)**: a Django app deployed two ways (Docker Compose and k3s with a Helm chart I wrote) behind Traefik with automatic HTTPS, built and deployed by GitLab CI/CD on a self-hosted runner, and monitored with Prometheus and Grafana. Runs on an Oracle Cloud free-tier VM.
-- **[k8s-homelab](https://github.com/hussainshaqsi/k8s-homelab)**: my Kubernetes learning log, week by week, on a k3s cluster.
-- **[Collecte](https://github.com/hussainshaqsi/Collecte) + [SAe-projet-integratif](https://github.com/hussainshaqsi/SAe-projet-integratif)**: an IoT temperature pipeline (MQTT, MySQL, Django dashboard) built for a university project.
+- **[django-cicd-pipeline](https://github.com/hussainshaqsi/django-cicd-pipeline)** : une application Django déployée de deux façons (Docker Compose et k3s avec un chart Helm écrit par moi) derrière Traefik avec HTTPS automatique, construite et déployée par GitLab CI/CD sur un runner auto-hébergé, et supervisée avec Prometheus et Grafana. Le tout tourne sur une VM Oracle Cloud gratuite.
+- **[k8s-homelab](https://github.com/hussainshaqsi/k8s-homelab)** : mon journal d'apprentissage de Kubernetes, semaine par semaine, sur un cluster k3s.
+- **[Collecte](https://github.com/hussainshaqsi/Collecte) + [SAe-projet-integratif](https://github.com/hussainshaqsi/SAe-projet-integratif)** : une chaîne de collecte de températures IoT (MQTT, MySQL, tableau de bord Django) réalisée pour un projet universitaire.
 
-## Stack
+## Compétences
 
-| Area | Tools |
+| Domaine | Outils |
 | --- | --- |
-| Containers & orchestration | Docker, Docker Compose, Kubernetes (k3s), Helm |
-| CI/CD & delivery | GitLab CI/CD, self-hosted runners, Traefik, Let's Encrypt |
-| Monitoring | Prometheus, Grafana |
-| Cloud & systems | Oracle Cloud, Linux (Ubuntu, Debian), iptables |
-| Networking | Cisco IOS, GNS3, EVE-NG, Wireshark, VLAN and inter-VLAN routing, DHCP, DNS |
-| Code | Python, Django, MQTT, SQL, HTML/CSS/JavaScript |
+| Conteneurs et orchestration | Docker, Docker Compose, Kubernetes (k3s), Helm |
+| CI/CD et livraison | GitLab CI/CD, runners auto-hébergés, Traefik, Let's Encrypt |
+| Supervision | Prometheus, Grafana |
+| Cloud et systèmes | Oracle Cloud, Linux (Ubuntu, Debian), iptables |
+| Réseaux | Cisco IOS, GNS3, EVE-NG, Wireshark, VLAN et routage inter-VLAN, DHCP, DNS |
+| Développement | Python, Django, MQTT, SQL, HTML/CSS/JavaScript |
 
-## Languages
+## Langues
 
-Arabic, English (C2), French.
+Arabe, anglais (C2), français.
